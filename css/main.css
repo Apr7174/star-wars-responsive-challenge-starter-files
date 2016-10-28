@@ -1,0 +1,16 @@
+body {
+	font-family: "Roboto", sans-serif;
+}
+
+header {
+	background-color: #eebb44;
+	margin-bottom: 40px;	
+}
+
+.card-block {
+}
+
+.card-img {
+	width: 100%;
+}
+
